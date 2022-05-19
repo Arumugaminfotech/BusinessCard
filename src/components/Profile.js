@@ -1,7 +1,7 @@
 export default function Profile(){
   
 return(
-    <div>
+    <div id="heading">
     <img src="/images/fighting.jpeg">
     </img>
     <h1>Arumugam</h1>

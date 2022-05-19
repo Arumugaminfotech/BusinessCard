@@ -4,9 +4,20 @@
   color: aliceblue;
   
 }
-svg{
-  padding:10px;
-  margin-left: -6%;
+#head{
+  align-items: center;
+  
+}
+#heading{
+  align-items: center;
+}
+#icon{
+  display: flex;
+  justify-content: center;
+ 
+}
+#icon > svg{
+  padding: 10px;
 }
 h6{
   
